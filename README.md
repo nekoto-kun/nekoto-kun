@@ -17,7 +17,7 @@
 </p>
 
 <h4 align="center">Consider support me, I need help!</h4>
-<p align="center">Need budget for a laptop/PC for I don't have my own since April 2020. Why am I still able to update this? 'cause I only have access to a work PC in my office. Why do I bother to get budget on this? 'cause I can't be productive as I need to be. What can I give you in return? I can develop apps (primarily mobile platform) for you as cheaper as it can be. How much can you support me? It is up to you. Do you have any projects done before? Luckily, yes! Knock me on DM 📢.</p>
+<p align="center">Need budget for a laptop/PC for I don't have my own since April 2020. Why am I still able to update this? 'cause I only have access to a work PC in my office. Why do I bother to get budget on this? 'cause I can't be productive as I need to be. What can I give you in return? I can develop apps (primarily mobile platform) for you as cheaper as it can be. How much can you support me? It is up to you. Do I have any projects done before? Luckily, yes! Knock me on DM 📢.</p>
 <p align="center"><a href="https://www.buymeacoffee.com/nekoto" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="36px"></a>
 </p>.
 
