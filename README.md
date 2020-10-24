@@ -46,6 +46,9 @@
   <a href="https://github.com/nekoto-kun/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekoto-kun&count_private=true&theme=algolia&layout=compact"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/nekoto-kun/"><img src="https://komarev.com/ghpvc/?username=nekoto-kun&style=flat-square&color=blue&label=Views"/></a>
+</p>
 
 <!--
 **nekoto-kun/nekoto-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
