@@ -17,7 +17,7 @@
 </p>
 
 <h4 align="center">Consider support me, I need help!</h4>
-<p align="center">Need budget for a laptop/PC 💻🖥 for I don't have my own since April 2020. I'll do your projects in return. 🤞 Oh, I can share my experiences regarding developing online learning system and mobile development.</p>
+<p align="center">Need budget for a laptop/PC 💻🖥</p>
 <p align="center"><a href="https://www.buymeacoffee.com/nekoto" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="36px"></a>
 </p>.
 
