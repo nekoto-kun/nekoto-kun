@@ -32,6 +32,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dealing with 500 or 503 errors from Moodle LMS](https://dev.to/nekotokun/dealing-with-500-or-503-errors-from-moodle-lms-p75)
+- [After 8 months 4 weeks and 1 day](https://dev.to/nekotokun/after-8-months-4-weeks-and-1-day-4g1d)
+- [Introduction](https://dev.to/nekotokun/introduction-160d)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
