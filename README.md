@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Andre Kho</h1>
-<h3>A wumboing Flutter developer from Cimahi</h3>
+<h3>A wumboing developer from Cimahi</h3>
 
 <h4>Stay connected with me!</h4>
 <p>
@@ -7,14 +7,26 @@
   <a href="https://t.me/nekoto_kun"><img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white""/></a>
   <a href="https://us04web.zoom.us/j/5420242310?pwd=Z1dRditvcEtxY3NNM3hvMUdrdFNTZz09"><img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge"/></a>
   <a href="https://id.linkedin.com/in/andrekho"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://dev.to/nekotokun"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
 
 <h4>..other platforms!</h4>
 <p>
   <a href="https://steamcommunity.com/id/nekoto-kun/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
-  <a href="https://dev.to/nekotokun"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/4e115eff-1f84-4b57-bca1-ae939e081403"><img src="https://img.shields.io/badge/Cloud%20Skills%20Boost-Andre%20Yonathan%20S.-blue?style=for-the-badge&color=4885ed" /></a>
 </p>
-
+    
+<h4>My Skills</h4>
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /><br />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
 
 <!-- <h4>Consider support me..</h4>
 <p><a href="https://www.buymeacoffee.com/nekoto" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="36px"></a>
