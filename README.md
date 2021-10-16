@@ -3,8 +3,7 @@
 
 <h4>Stay connected with me!</h4>
 <p>
-  <a href="mailto:andreyonathan65@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://m.me/nekotosensei"><img src="https://img.shields.io/badge/messenger-%2300B2FF.svg?&style=for-the-badge&logo=messenger&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/521034222308294678"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://t.me/nekoto_kun"><img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white""/></a>
   <a href="https://us04web.zoom.us/j/5420242310?pwd=Z1dRditvcEtxY3NNM3hvMUdrdFNTZz09"><img src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge"/></a>
   <a href="https://id.linkedin.com/in/andrekho"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -16,9 +15,10 @@
   <a href="https://dev.to/nekotokun"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>
 </p>
 
-<h4>Consider support me..</h4>
+
+<!-- <h4>Consider support me..</h4>
 <p><a href="https://www.buymeacoffee.com/nekoto" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="36px"></a>
-</p>
+</p> -->
 
 <p>
   <a href="https://github.com/nekoto-kun/"><img src="https://github-readme-stats.vercel.app/api?username=nekoto-kun&count_private=true&theme=algolia&show_icons=true" height="160" /></a>
