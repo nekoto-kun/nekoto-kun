@@ -43,7 +43,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Setup a Moodle website in Google Cloud Platform (GCP) with HTTPS](https://dev.to/nekotokun/guide-to-setup-a-moodle-website-in-google-cloud-platform-gcp-with-https-2f63)
+- [Guide to Setup a Moodle website in Google Cloud Platform &lpar;GCP&rpar; with HTTPS](https://dev.to/nekotokun/guide-to-setup-a-moodle-website-in-google-cloud-platform-gcp-with-https-2f63)
 - [My Moodle Tips #3](https://dev.to/nekotokun/my-moodle-tips-3-4n44)
 - [My Moodle Tips #2](https://dev.to/nekotokun/my-moodle-tips-2-3jaf)
 - [My Moodle Tips #1](https://dev.to/nekotokun/dealing-with-500-or-503-errors-from-moodle-lms-p75)
