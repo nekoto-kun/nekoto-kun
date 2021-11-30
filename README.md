@@ -12,8 +12,9 @@
 
 <h4>..other platforms!</h4>
 <p>
-  <a href="https://steamcommunity.com/id/nekoto-kun/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/4e115eff-1f84-4b57-bca1-ae939e081403"><img src="https://img.shields.io/badge/Cloud%20Skills%20Boost-Andre%20Yonathan%20S.-blue?style=for-the-badge&color=4885ed" /></a>
+  <a href="https://steamcommunity.com/id/nekoto-kun/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a><br />
+    <a href="https://www.cloudskillsboost.google/public_profiles/4e115eff-1f84-4b57-bca1-ae939e081403"><img src="https://img.shields.io/badge/Cloud%20Skills%20Boost-Andre%20Yonathan%20S.-blue?style=for-the-badge&color=4885ed" /></a><br />
+    <a href="https://g.dev/nekoto"><img src="https://img.shields.io/badge/Google%20Developers%20Profile-Andre%20Kho-blue?style=for-the-badge&color=4885ed" /></a>
 </p>
     
 <h4>My Skills</h4>
