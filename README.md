@@ -44,11 +44,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Laravel 8 to Compute Engine instance &lpar;LEMP stack&rpar;](https://dev.to/nekotokun/deploy-laravel-8-to-compute-engine-instance-lemp-stack-280g)
 - [Guide to Setup a Moodle website in Google Cloud Platform &lpar;GCP&rpar; with HTTPS](https://dev.to/nekotokun/guide-to-setup-a-moodle-website-in-google-cloud-platform-gcp-with-https-2f63)
 - [My Moodle Tips #3](https://dev.to/nekotokun/my-moodle-tips-3-4n44)
 - [My Moodle Tips #2](https://dev.to/nekotokun/my-moodle-tips-2-3jaf)
 - [My Moodle Tips #1](https://dev.to/nekotokun/dealing-with-500-or-503-errors-from-moodle-lms-p75)
-- [After 8 months 4 weeks and 1 day](https://dev.to/nekotokun/after-8-months-4-weeks-and-1-day-4g1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
