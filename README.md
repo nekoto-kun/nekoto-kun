@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Andre Kho
-### A wumboing [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/94652176-edad-4e39-bf1f-882982bc142a?key=c208a32ba457221677f4e6b2c16518a52451fbf6530b960fa091f3d52b2099c9) from Cimahi.
+### A wumboing [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/94652176-edad-4e39-bf1f-882982bc142a?key=c208a32ba457221677f4e6b2c16518a52451fbf6530b960fa091f3d52b2099c9) from Cimahi
 
 
 <h4>Stay connected with me!</h4>
@@ -48,9 +48,6 @@
 </p> -->
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nekoto-kun&count_private=true&theme=algolia&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekoto-kun&layout=compact&count_private=true&theme=algolia" height="160" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nekoto-kun&theme=github-dark-blue&hide_border=true" />
 </p>
 
