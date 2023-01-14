@@ -10,7 +10,7 @@
   <a href="https://steamcommunity.com/id/nekoto-kun/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
   <a href="https://t.me/nekoto_kun"><img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white""/></a>
   <br>
-  <a href="https://dev.to/nekotokun"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="https://dev.to/nekoto"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   <a href="https://medium.com/@nekoto"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
