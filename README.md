@@ -54,11 +54,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Easy Uptime Monitoring Tool with Uptime Kuma in Google Cloud Platform](https://dev.to/nekotokun/easy-uptime-monitoring-tool-with-uptime-kuma-in-google-cloud-platform-5d3)
-- [Deploy Laravel 8 to Compute Engine instance &lpar;LEMP stack&rpar;](https://dev.to/nekotokun/deploy-laravel-8-to-compute-engine-instance-lemp-stack-280g)
-- [Guide to Setup a Moodle website in Google Cloud Platform &lpar;GCP&rpar; with HTTPS](https://dev.to/nekotokun/guide-to-setup-a-moodle-website-in-google-cloud-platform-gcp-with-https-2f63)
-- [My Moodle Tips #3](https://dev.to/nekotokun/my-moodle-tips-3-4n44)
-- [My Moodle Tips #2](https://dev.to/nekotokun/my-moodle-tips-2-3jaf)
+- [Easy Uptime Monitoring Tool with Uptime Kuma in Google Cloud Platform](https://dev.to/nekoto/easy-uptime-monitoring-tool-with-uptime-kuma-in-google-cloud-platform-5d3)
+- [Deploy Laravel 8 to Compute Engine instance &lpar;LEMP stack&rpar;](https://dev.to/nekoto/deploy-laravel-8-to-compute-engine-instance-lemp-stack-280g)
+- [Guide to Setup a Moodle website in Google Cloud Platform &lpar;GCP&rpar; with HTTPS](https://dev.to/nekoto/guide-to-setup-a-moodle-website-in-google-cloud-platform-gcp-with-https-2f63)
+- [My Moodle Tips #3](https://dev.to/nekoto/my-moodle-tips-3-4n44)
+- [My Moodle Tips #2](https://dev.to/nekoto/my-moodle-tips-2-3jaf)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
