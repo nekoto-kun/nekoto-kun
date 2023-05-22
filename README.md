@@ -6,7 +6,6 @@
 
 <h4>Stay connected with me!</h4>
 <p>
-  <a href="https://discordapp.com/users/521034222308294678"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://steamcommunity.com/id/nekoto-kun/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
   <a href="https://t.me/nekoto_kun"><img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white""/></a>
   <br>
