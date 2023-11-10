@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Andre Kho
-### A wumboing [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/94652176-edad-4e39-bf1f-882982bc142a?key=c208a32ba457221677f4e6b2c16518a52451fbf6530b960fa091f3d52b2099c9) from Cimahi
+### A wumboing [Google Cloud Certified Professional Cloud Architect](https://google.accredible.com/cf2e33fe-585f-4de5-81aa-9b220fb235a9) from Cimahi
 
 
 <h4>Stay connected with me!</h4>
