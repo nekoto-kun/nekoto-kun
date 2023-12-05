@@ -4,11 +4,8 @@
 ### A wumboing [Google Cloud Certified Professional Cloud Architect](https://google.accredible.com/cf2e33fe-585f-4de5-81aa-9b220fb235a9) from Cimahi
 
 
-<h4>Stay connected with me!</h4>
+<h4>Read my articles</h4>
 <p>
-  <a href="https://steamcommunity.com/id/nekoto-kun/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
-  <a href="https://t.me/nekoto_kun"><img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white""/></a>
-  <br>
   <a href="https://dev.to/nekoto"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   <a href="https://medium.com/@nekoto"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
