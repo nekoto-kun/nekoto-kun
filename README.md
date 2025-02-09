@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Andre Kho
-### A wumboing [Google Cloud Certified Professional Cloud Architect](https://google.accredible.com/cf2e33fe-585f-4de5-81aa-9b220fb235a9) from Cimahi
+### A wumboing [Google Cloud Certified Professional Cloud Architect](https://google.accredible.com/cf2e33fe-585f-4de5-81aa-9b220fb235a9)
 
 
 <h4>Read my articles</h4>
